@@ -13,8 +13,8 @@ project(
 )
 
 # Create a sources variable and link to all cpp files to compile
-set(SOURCES
-  src/main.cpp
+file(GLOB_RECURSE SOURCES
+  "${PROJECT_SOURCE_DIR}/src/*.cpp"
 )
 
 # Add an executable with the above soures
