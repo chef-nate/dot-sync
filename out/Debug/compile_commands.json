@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/nate/projects/dot-sync/out/Debug",
-  "command": "/sbin/c++  -I/home/nate/projects/dot-sync/include -g -std=gnu++23 -o CMakeFiles/dot-sync.dir/src/main.cpp.o -c /home/nate/projects/dot-sync/src/main.cpp",
-  "file": "/home/nate/projects/dot-sync/src/main.cpp",
-  "output": "CMakeFiles/dot-sync.dir/src/main.cpp.o"
-}
-]

@@ -1,1 +1,0 @@
-/sbin/c++ -g -Wl,--dependency-file=CMakeFiles/dot-sync.dir/link.d "CMakeFiles/dot-sync.dir/src/main.cpp.o" -o dot-sync

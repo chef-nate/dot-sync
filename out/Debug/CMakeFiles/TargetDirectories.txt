@@ -1,3 +1,0 @@
-/home/nate/projects/dot-sync/out/Debug/CMakeFiles/dot-sync.dir
-/home/nate/projects/dot-sync/out/Debug/CMakeFiles/edit_cache.dir
-/home/nate/projects/dot-sync/out/Debug/CMakeFiles/rebuild_cache.dir
